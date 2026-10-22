@@ -1,0 +1,12 @@
+Git Practice - Sun*
+Name: Nguyen Le Dung
+
+This repository is used for Git practice.
+
+Topics:
+- Git clone
+- Git add
+- Git commit
+- Git push
+- Pull request
+- Code review
